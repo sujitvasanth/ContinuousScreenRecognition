@@ -9,3 +9,5 @@ This is a cross platform python implementation of screen capture and object reco
 you can install mss for newed veriosn of python using
 
 python -m pip install -U --user mss
+
+There is a version of cafe model detection in the cafe folder
